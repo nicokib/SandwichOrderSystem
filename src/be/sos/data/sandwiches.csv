@@ -1,0 +1,31 @@
+id;names;typeSandwich;price;cruditiesOptionAvailable;ingredients
+1;Jambon/Hesp;1;3.5;true;
+2;Rosbif/Rosbief;1;4.0;true;
+3;Jambon de Parme/Parmaham;1;3.5;true;
+4;Americain préparé/Americain préparé;1;3.5;true;
+5;Martino/Martino;1;3.75;true;
+6;Salami/Salami;1;3.5;true;
+7;Salade de viande/Vleessla;1;3.5;true;
+8;Jambon + fromage/Hesp + kaas;1;3.75;true;
+9;Poulet curry/Kip curry;1;3.5;true;
+10;Salade de poulet/Kipsla;1;3.5;true;
+11;Gouda/Hollandse kaas;2;3.5;true;
+12;Brie/Brie;2;3.75;true;
+13;Salade de crevettes/Garnaalsla;3;4.25;true;
+14;Salade de thon/Tonijnsla;3;3.5;true;
+15;Salade de thon piquant/Pikante tonijnsla;3;3.5;true;
+16;Salade de saumon/Zalmsla;3;4.5;true;
+17;Salade de saumon fumé/Gerookte zalmsla;3;4.5;true;
+18;Salade de crabe/Krabsla;3;4.5;true;
+19;Pinky/Pinky;4;4.5;false;salade/sla,tomates/tomaat,oeufs/ei,filet de hareng/haringfilet,tartare/tartaar
+20;Hawaiien/Hawaiibroodje;4;4.5;false;ananas/ananas,jambon/hesp,fromage/kass,sauce de cocktail/cocktailsaus
+21;Florida/Florida;4;4.5;false;salade/sla,ananas/ananas,blanc de poulet/kipfilet,sauce de cocktail/cocktailsaus
+22;Primus/Primus;4;4.5;false;salade/sla,pêches/perzik,salade de thon/tonijnsla
+23;Milano/Milano;4;4.5;false;salade/sla,tomates/tomaat,cornichon/augruk,salami/salami,tartare/tartaar
+24;Ardenne/Ardenne;4;4.5;false;rucola/rucola,tomates/tomaat,jambon de Parme/parmaham,sauce de cocktail/cocktailsaus
+25;Maya/Maya;5;5.0;false;rucola/rucola,brie/brie,miel/honing,pêche/perzik
+26;Fromage du chèvre/Broodje geitenkaas;5;5.0;false;fromage de chèvre/geitenkaas,miel/honing,noix/walnoten,rucola/rucola
+27;Printemps/Lentebroodje;5;5.0;false;salade celeri/seldersla,carottes/wortel,ananas/ananas
+28;Mozzarella/Mozzarella;5;4.75;false;huile d'olive/olijfolie,sel/zout,poivre/peper,basilic/basilicum,tomates/tomaat
+29;"Santé"/Gezond;5;5.0;false;salade/sla,tomates/tomaat,salade de céleri/seldersla,carottes/wortel,concombre/komkommer,oeuf/ei,mayo/mayo
+30;Végan/Vegan  broodje;5;4.0;false;salade végane au curry/vegan curry,salade/sla,tomate/tomaat,carottes/wortel,concombre/komkommer,maïs/maïs,rucola/rucola,ananas/ananas

@@ -1,0 +1,23 @@
+SANDWICH REPORT (Date : 07/05/2026)
+-----------------------------------
+SESSION1-VB.Net Programming
+---------------------------
+Name                       Broodjes              Soorten sandwiches  Groenten  Bruin/Wit   Price     
+----                       --------              ------------------  --------  ---------   -----     
+Viktor Krum                Lentebroodje          Vegetarische specials  Nee       witbrood    3.5       
+Viktor Krum                Hesp + kaas           Vlees               Nee       bruinbrood  3.5       
+
+Total session price : 7,00
+
+SESSION2-JS Programming
+-----------------------
+Name                       Broodjes              Soorten sandwiches  Groenten  Bruin/Wit   Price     
+----                       --------              ------------------  --------  ---------   -----     
+Luna Lovegood              Milano                Specials            Jaa       bruinbrood  5.5       
+Viktor Krum                Primus                Specials            Nee       bruinbrood  3.5       
+
+Total session price : 9,00
+
+--------------------------------------------------------------------------------
+Aantal bestelde sandwiches : 4
+Total prijs : 16,00
